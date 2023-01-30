@@ -1,0 +1,81 @@
+header {
+    text-align: center;
+    color: white;
+    font-family: 'papyrus';
+}
+
+h1 {
+    font-family: 'perpetua';
+    font-size: 50px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    color: blue;
+    text-decoration: underline;
+}
+
+h2{
+    text-align: center;
+    color: white;
+    background-color: rgb(42, 18, 53);
+    padding: 7px;
+
+}
+
+nav {
+    text-align: center;
+}
+
+nav > button {
+    border-color: rgb(42, 18, 53);
+    border-style: groove;
+}
+
+button:hover {
+    color: red;
+}
+
+body{
+    color:white;
+    background-color: rgb(25, 25, 25);
+    font-family: 'papyrus';
+    font-size: 18px;
+}
+
+h3 {
+    display: inline-block;
+    background-color: rgb(74, 59, 82);
+    padding: 10px;
+    margin-top: 30px;
+}
+
+table {
+    border: 1px solid white;
+    ;
+}
+
+th, td {
+    border: 1px solid white;
+    background-color: rgb(42, 18, 53);
+    border-spacing: 3px;
+    padding: 3px;
+    width: 80px;
+    vertical-align: top;
+    text-align: left;
+
+}
+
+p {
+    margin-left: 30px;
+}
+
+.haiku {
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 30px;
+}
